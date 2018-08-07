@@ -1,0 +1,33 @@
+dependencies:
+- name: auth
+  repository: https://raw.githubusercontent.com/ibm-cloud-architecture/refarch-cloudnative-kubernetes/master/docs/charts
+  version: 0.4.0
+- name: catalog
+  repository: https://raw.githubusercontent.com/ibm-cloud-architecture/refarch-cloudnative-kubernetes/master/docs/charts
+  version: 0.4.0
+- name: catalogelasticsearch
+  repository: https://raw.githubusercontent.com/ibm-cloud-architecture/refarch-cloudnative-kubernetes/master/docs/charts
+  version: 0.3.0
+- name: customer
+  repository: https://raw.githubusercontent.com/ibm-cloud-architecture/refarch-cloudnative-kubernetes/master/docs/charts
+  version: 0.4.0
+- name: customercouchdb
+  repository: https://raw.githubusercontent.com/ibm-cloud-architecture/refarch-cloudnative-kubernetes/master/docs/charts
+  version: 0.3.0
+- name: inventory
+  repository: https://raw.githubusercontent.com/ibm-cloud-architecture/refarch-cloudnative-kubernetes/master/docs/charts
+  version: 0.4.0
+- name: inventorymysql
+  repository: https://raw.githubusercontent.com/ibm-cloud-architecture/refarch-cloudnative-kubernetes/master/docs/charts
+  version: 0.4.0
+- name: orders
+  repository: https://raw.githubusercontent.com/ibm-cloud-architecture/refarch-cloudnative-kubernetes/master/docs/charts
+  version: 0.4.0
+- name: ordersmysql
+  repository: https://raw.githubusercontent.com/ibm-cloud-architecture/refarch-cloudnative-kubernetes/master/docs/charts
+  version: 0.4.0
+- name: web
+  repository: https://raw.githubusercontent.com/ibm-cloud-architecture/refarch-cloudnative-kubernetes/master/docs/charts
+  version: 0.4.0
+digest: sha256:eccd2affc3ebb559c4ed89a8c6e5fd1ac8d350d60819b70fff615f66d38f082f
+generated: 2018-06-27T21:57:38.023756088-05:00
